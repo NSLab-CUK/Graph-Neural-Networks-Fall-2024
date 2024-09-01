@@ -17,6 +17,8 @@ This repository is for archiving the Graph Neural Networks class (06838-01) of t
   * [O-Joun Lee](https://nslab-cuk.github.io/member) - [![E-mail](https://img.shields.io/badge/-ojlee@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=white)](mailto:ojlee@catholic.ac.kr)
 * Teaching Assistants
   * [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) - [![E-mail](https://img.shields.io/badge/-hoangvanthuy90@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=white)](mailto:hoangvanthuy90@gmail.com)
+  * [Tien-Bach-Thanh Do](https://nslab-cuk.github.io/member/osfa19730) - [![E-mail](https://img.shields.io/badge/-osfa19730@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=white)](mailto:osfa19730@catholic.ac.kr)
+  * [Huy Quang Tran](https://nslab-cuk.github.io/member/huy) - [![E-mail](https://img.shields.io/badge/-huytran1126@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=white)](mailto:huytran1126@gmail.com)
 
 
 
