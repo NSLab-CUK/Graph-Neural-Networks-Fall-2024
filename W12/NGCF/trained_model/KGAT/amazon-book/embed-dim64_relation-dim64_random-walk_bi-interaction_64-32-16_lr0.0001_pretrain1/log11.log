@@ -1,0 +1,12 @@
+2024-11-14 03:57:45,938 - root - INFO - Namespace(seed=2019, data_name='amazon-book', data_dir='/home/ubuntu/Documents/Graph-Neural-Networks-Fall-2023/W14/datasets', use_pretrain=1, pretrain_embedding_dir='/home/ubuntu/Documents/Graph-Neural-Networks-Fall-2023/W14/datasets/pretrain', pretrain_model_path='trained_model/model.pth', cf_batch_size=1024, kg_batch_size=2048, test_batch_size=10000, embed_dim=64, relation_dim=64, laplacian_type='random-walk', aggregation_type='bi-interaction', conv_dim_list='[64, 32, 16]', mess_dropout='[0.1, 0.1, 0.1]', kg_l2loss_lambda=1e-05, cf_l2loss_lambda=1e-05, lr=0.0001, n_epoch=1000, stopping_steps=10, cf_print_every=1, kg_print_every=1, evaluate_every=10, Ks='[20, 40, 60, 80, 100]', save_dir='trained_model/KGAT/amazon-book/embed-dim64_relation-dim64_random-walk_bi-interaction_64-32-16_lr0.0001_pretrain1/')
+2024-11-14 03:59:44,888 - root - INFO - n_users:           70679
+2024-11-14 03:59:44,888 - root - INFO - n_items:           24915
+2024-11-14 03:59:44,889 - root - INFO - n_entities:        113487
+2024-11-14 03:59:44,889 - root - INFO - n_users_entities:  184166
+2024-11-14 03:59:44,889 - root - INFO - n_relations:       80
+2024-11-14 03:59:44,890 - root - INFO - n_h_list:          6420520
+2024-11-14 03:59:44,890 - root - INFO - n_t_list:          6420520
+2024-11-14 03:59:44,890 - root - INFO - n_r_list:          6420520
+2024-11-14 03:59:44,891 - root - INFO - n_cf_train:        652514
+2024-11-14 03:59:44,891 - root - INFO - n_cf_test:         193920
+2024-11-14 03:59:44,891 - root - INFO - n_kg_train:        6420520
